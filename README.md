@@ -1,6 +1,6 @@
 - Hi, I’m @Yannetion
 - I’m interested in Programming, 3D Modelling and Drawing
-- I’m currently learning Java and Python
+- I’m currently learning Front-End Development
 - I’m looking to collaborate on ...
 - How to reach me : Discord = Yannetion#2029
 
